@@ -21,7 +21,7 @@ const HeroContainer = () => {
           <div className="pixel-corners absolute w-full top-3 -left-2 w-full py-4 items-center px-6 bg-[var(--brand-color-violet)] rounded-full"></div>
           <button className="pixel-corners relative z-[10] py-2 items-center px-6 bg-[var(--brand-color-blue)]  font-medium flex gap-1 rounded-full">
             <RiFileCloudLine className="w-4 h-4" />
-            <p>Projects</p>
+            <p>My Projects</p>
           </button>
         </div>
         <button className="py-2 text-[var(--brand-color-violet)] items-center px-6 border border-[var(--brand-color-violet)] rounded-full font-bold flex gap-1">
@@ -46,7 +46,7 @@ const HeroContainer = () => {
           </a>
         </li>
       </ul>
-      <p className="text-sm font-light">Just keep scrolling {":)"}</p>
+      <p className="text-sm font-light">Just keep scrolling {":D"}</p>
       <div className="h-full border-l-[0.1px] border-gray-400"></div>
     </section>
   );

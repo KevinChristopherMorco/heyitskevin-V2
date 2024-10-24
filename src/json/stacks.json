@@ -1,0 +1,53 @@
+[
+  {
+    "technology": "HTML",
+    "logo": "/src/assets/images/html.png",
+    "type": "stack"
+  },
+  {
+    "technology": "CSS",
+    "logo": "/src/assets/images/css.png",
+    "type": "stack"
+  },
+  {
+    "technology": "Javascript",
+    "logo": "/src/assets/images/javascript.png",
+    "type": "stack"
+  },
+  {
+    "technology": "React",
+    "logo": "/src/assets/images/react.png",
+    "type": "stack"
+  },
+  {
+    "technology": "Tailwind",
+    "logo": "/src/assets/images/tailwind.png",
+    "type": "stack"
+  },
+  {
+    "technology": "Bootstrap",
+    "logo": "/src/assets/images/bootstrap.png",
+    "type": "stack"
+  },
+  {
+    "technology": "Git",
+    "logo": "/src/assets/images/git.png",
+    "type": "stack"
+  },
+  {
+    "technology": "Visual Studio",
+    "logo": "/src/assets/images/vs-code.png",
+    "type": "software"
+  },
+
+  {
+    "technology": "Photoshop",
+    "logo": "/src/assets/images/photoshop.png",
+    "type": "software"
+  },
+  {
+    "technology": "Figma",
+    "logo": "/src/assets/images/figma.png",
+    "type": "software"
+  }
+]

@@ -7,7 +7,7 @@ const Layout = () => {
   return (
     <>
       <Header />
-      <main className="p-6 flex flex-col gap-10">
+      <main className="p-6 flex flex-col gap-10 items-center">
         <Outlet />
       </main>
     </>

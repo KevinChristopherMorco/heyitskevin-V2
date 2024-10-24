@@ -1,0 +1,20 @@
+[
+  {
+    "skill": "Web Design & Development",
+    "overview": "I'm passionate about creating beautiful and user-friendly web designs that makes browsing a smooth experience for the users.",
+    "icon": "code",
+    "hasWork": true
+  },
+  {
+    "skill": "Graphic Design",
+    "overview": "I enjoy doing graphic designs. I like to create eye-catching thumbnails and posters that effectively communicate the intended message and captivate the audience. Since having a great graphics design increases user engagement.",
+    "icon": "grid",
+    "hasWork": true
+  },
+  {
+    "skill": "UI/UX Design",
+    "overview": "As a developer it is important for me to know the important aspects in Web Design especially for the UI and UX. Whether it be the main layout or color combinations it is crucial for every app to have its own identity for it to standout.",
+    "icon": "computer",
+    "hasWork": true
+  }
+]

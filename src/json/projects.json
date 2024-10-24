@@ -1,0 +1,133 @@
+[
+  {
+    "image": "/src/assets/images/project-card/penny-wise.png",
+    "title": "Penny Wise",
+    "subtitle": "Mini Project",
+    "information": "Manage your Expenses and Budget with ease!",
+    "stack": ["javascript", "react", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/penny-wise",
+    "liveRef": "https://penny-wise-nu.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/cuisine-craze.png",
+    "title": "Cuisine Craze",
+    "subtitle": "Mini Project",
+    "information": "Find recipes all around the globe!",
+    "stack": ["javascript", "react", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/cuisine-craze/tree/master",
+    "liveRef": "https://cuisine-craze.vercel.app/",
+    "liveSite": true,
+    "isHidden": true
+  },
+  {
+    "image": "/src/assets/images/project-card/country-app.png",
+    "title": "Where in the world?",
+    "subtitle": "Mini Project",
+    "information": "Find interesting facts about every country in the world!",
+    "stack": ["javascript", "react", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/our-homeland",
+    "liveRef": "https://our-homeland.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/keeper-app.png",
+    "title": "Keeper",
+    "subtitle": "Mini Project",
+    "information": "An app that lets you create notes.",
+    "stack": ["javascript", "react", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/Keeper",
+    "liveRef": "https://keeper-puce.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/dictionary-app.png",
+    "title": "Word Dictionary",
+    "subtitle": "Mini Project",
+    "information": "An app that gets the meaning of words.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/word-dictionary",
+    "liveRef": "https://word-dictionary-iota.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/todo-app.png",
+    "title": "To-Do App",
+    "subtitle": "Mini Project",
+    "information": "An app that tracks your tasks.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/To-Do-List",
+    "liveRef": "https://to-do-list-murex-five.vercel.app/",
+    "liveSite": true,
+    "isHidden": true
+  },
+  {
+    "image": "/src/assets/images/project-card/news-app.png",
+    "title": "Global Pulse",
+    "subtitle": "Mini Project",
+    "information": "Global Pulse is a news app that lets you browse the news.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/news-app",
+    "liveRef": "https://news-app-zeta-sage.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/ip-tracker.png",
+    "title": "IP Address Tracker",
+    "subtitle": "Mini Project",
+    "information": "An app that tracks IP address details.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/ip-address-tracker",
+    "liveRef": "https://ip-address-tracker-phi-azure.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/tip-calculator.png",
+    "title": "Tip Calculator",
+    "subtitle": "Mini Project",
+    "information": "An app that calculates tip percentage and total.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/tip-calculator",
+    "liveRef": "https://tip-calculator-wheat-zeta.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/advice-app.png",
+    "title": "Advice Generator App",
+    "subtitle": "Mini Project",
+    "information": "An app that generates random advice.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/advice-generator-app",
+    "liveRef": "https://advice-generator-app-sigma-umber.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/rock-paper-scissors.png",
+    "title": "Rock Paper Scissors",
+    "subtitle": "Mini Project",
+    "information": "A classic game of rock paper and scissors.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/rock-paper-scissors",
+    "liveRef": "https://rock-paper-scissors-gamma-sandy.vercel.app/",
+    "liveSite": true,
+    "isHidden": false
+  },
+  {
+    "image": "/src/assets/images/project-card/time-tracker.png",
+    "title": "Time Tracking Dashboard",
+    "subtitle": "Web Design",
+    "information": "A web template that allows users to track time.",
+    "stack": ["javascript", "html", "css"],
+    "gitRef": "https://github.com/KevinChristopherMorco/time-tracking-dashboard",
+    "liveSite": false,
+    "isHidden": true
+  }
+]

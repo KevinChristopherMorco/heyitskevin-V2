@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+  /* font-family: "Inter", sans-serif; */
+  /* font-family: "Segoe UI", sans-serif; */
+}
+
+:root {
+  --bg-color: #f4f9fc;
+  --brand-color-blue: #aadcec;
+  --brand-color-violet: #7f00e0;
+  --text-color: #0f1b61;
+}
+
+/* .pixel-corners {
+  clip-path: polygon(
+    0px calc(100% - 12px),
+    4px calc(100% - 12px),
+    4px calc(100% - 8px),
+    8px calc(100% - 4px),
+    12px calc(100% - 4px),
+    12px 100%,
+    calc(100% - 12px) 100%,
+    calc(100% - 12px) calc(100% - 4px),
+    calc(100% - 8px) calc(100% - 4px),
+    calc(100% - 4px) calc(100% - 8px),
+    calc(100% - 4px) calc(100% - 12px),
+    100% calc(100% - 12px),
+    100% 12px,
+    calc(100% - 4px) 12px,
+    calc(100% - 4px) 8px,
+    calc(100% - 8px) 4px,
+    calc(100% - 12px) 4px,
+    calc(100% - 12px) 0px,
+    12px 0px,
+    12px 4px,
+    8px 4px,
+    4px 8px,
+    4px 12px,
+    0px 12px
+  );
+} */
+
+@layer base {
+  html {
+    @apply h-full bg-white scroll-smooth;
+  }
+  body {
+    @apply h-full bg-white;
+  }
+  #root {
+    @apply min-h-screen bg-[var(--bg-color)] text-[var(--text-color)] relative;
+  }
+}

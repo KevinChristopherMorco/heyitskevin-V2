@@ -16,6 +16,13 @@
   --brand-color-blue: #aadcec;
   --brand-color-violet: #7f00e0;
   --text-color: #0f1b61;
+
+  --messenger-color: #056fdd;
+  --linkedin-color: #0077b5;
+  --html-color: #dd4b25;
+  --css-color: #254bdd;
+  --javascript-color: #efd81d;
+  --react-color: #00d5f7;
 }
 
 /* .pixel-corners {

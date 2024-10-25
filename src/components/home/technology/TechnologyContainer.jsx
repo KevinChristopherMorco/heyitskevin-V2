@@ -5,8 +5,12 @@ import MainHeading from "../../shared/heading/MainHeading";
 
 const TechnologyContainer = () => {
   return (
-    <section className="flex flex-col gap-10 items-center">
-      <MainHeading title={"Technology Stacks"} />
+    <section className="flex flex-col gap-10">
+      <MainHeading
+        title={"Technology Stacks"}
+        subtext={"Here's my current tech stacks"}
+        hasSubtext={true}
+      />
       <div className="flex flex-wrap gap-4 items-center justify-center">
         {stacks.map((stack, index) => {
           return (
